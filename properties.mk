@@ -24,3 +24,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
     persist.vendor.ov13855_sunny.low.lux=385 \
     persist.vendor.s5k3l8_ofilm.light.lux=367 \
     persist.vendor.s5k3l8_ofilm.low.lux=379
+
+PRODUCT_PROPERTY_OVERRIDES += \
+    debug.hwui.renderer=skiavk
+
